@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./profile-binary-art.svg" width="500" alt="binary art"/>
+</p>
+
+
 # 💫 Hi 👋, I'm Shrey Shah
 
 **A passionate Software Engineer || Web Developer || Student from India**
