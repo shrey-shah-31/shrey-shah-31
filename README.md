@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./profile-binary-art.svg" width="500" alt="binary art"/>
-</p>
-
-
 # 💫 Hi 👋, I'm Shrey Shah
 
 **A passionate Software Engineer || Web Developer || Student from India**
@@ -14,6 +9,10 @@
 •📫 **How to reach me**: shreyshah2005@gmail.com
 
 •⚡ **Fun fact**: 🐍 Python wasn't named after the snake — it was named after the comedy show Monty Python.
+
+<p align="center">
+  <img src="./profile-binary-art.svg" width="500" alt="binary art"/>
+</p>
 
 
 ## 🌐 Socials:
